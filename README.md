@@ -121,6 +121,13 @@ Speck-256-ECB Set Key ... 0.74us per operation, 1348072.26 per second
 Speck-256-ECB Encrypt ... 2.05us per byte, 487709.72 bytes per second
 ```
 
+The flash usage is quite reasonable for the Speck example:
+
+```
+Memory use: 
+   text	   data	    bss	    dec	    hex	filename
+  11068	    108	   1820	  12996	   32c4	/workspace/target/workspace.elf
+```
 
 ----
 
