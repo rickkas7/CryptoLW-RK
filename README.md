@@ -53,7 +53,7 @@ Ascon128 #4 ComputeTag ... 34.54us per operation, 28951.10 per second
 
 
 
-### 3-TestSpec
+### 3-TestSpeck
 
 Tested on a Photon running Device OS 1.0.0:
 

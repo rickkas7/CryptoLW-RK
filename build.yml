@@ -2,7 +2,7 @@
   photon: [1.0.0]
 - build: examples/2-TestAscon
   photon: [1.0.0]
-- build: examples/3-TestSpec
+- build: examples/3-TestSpeck
   photon: [0.6.3, 0.7.0, 1.0.0]
   p1: [1.0.0]
   electron: [1.0.0]
