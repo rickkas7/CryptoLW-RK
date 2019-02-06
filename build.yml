@@ -1,0 +1,11 @@
+- build: examples/1-TestAcorn
+  photon: [1.0.0]
+- build: examples/2-TestAscon
+  photon: [1.0.0]
+- build: examples/3-TestSpec
+  photon: [0.6.3, 0.7.0, 1.0.0]
+  p1: [1.0.0]
+  electron: [1.0.0]
+  argon: [0.8.0-rc.27]
+  boron: [0.8.0-rc.27]
+  xenon: [0.8.0-rc.27]
